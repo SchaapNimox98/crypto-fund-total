@@ -1,0 +1,27 @@
+{
+  "name": "crypto-fund-total",
+  "version": "1.0.0",
+  "description": "Creating additional number for basic algo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "crypto-fund-total": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SchaapNimox98/crypto-fund-total.git"
+  },
+  "homepage": "https://twitter.com/MaryMichel18051",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "SchaapNimox98",
+  "license": "MIT"
+}
